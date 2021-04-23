@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=italolima04&label=Profile%20views&color=0e75b6&style=flat" alt="italolima04" /> </p>
 
-- 🔭 I’m currently working on **We Care Fitness**
+- 🔭 I’m currently working on **Urbis**
 
 - 🌱 I’m currently learning **Frameworks, Testes, Git Avançado, Docker**
 
