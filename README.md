@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ítalo Lima</h1>
-<h3 align="center">Desenvolvedor Web, futuro Engenheiro de Software e entusiasta em Machine Learning e DataScience. Tecnologias: JavaScript | HTML | CSS | NodeJS | ReactJS | NestJS</h3>
+<h3 align="center">Desenvolvedor Web, futuro Engenheiro de Software e entusiasta em Machine Learning e DataScience. Tecnologias: JavaScript | TypeScript | NestJS | NodeJS | ReactJS </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=italolima04&label=Profile%20views&color=0e75b6&style=flat" alt="italolima04" /> </p>
 
 - 🔭 I’m currently working on **Urbis**
 
-- 🌱 I’m currently learning **Frameworks, Testes, Git Avançado, Docker**
+- 🌱 I’m currently learning **Testes, Git Avançado, Docker**
 
-- 👯 I’m looking to collaborate on **Maiselfy**
+- 👯 I’m looking to collaborate on **Maiself**
 
-- 💬 Ask me about **Node**
+- 💬 Ask me about **NodeJS, Postgres, Prisma**
 
 - 📫 How to reach me **italolima534@gmail.com**
 
