@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ítalo Lima</h1>
-<h3 align="center">Desenvolvedor Web, futuro Engenheiro de Software e entusiasta em Machine Learning e DataScience. Tecnologias: JavaScript | TypeScript | NestJS | NodeJS | ReactJS </h3>
+<h3 align="center">Desenvolvedor Web, futuro Engenheiro de Software e entusiasta em Machine Learning e Data Science. Tecnologias: JavaScript | TypeScript | NestJS | NodeJS | ReactJS </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=italolima04&label=Profile%20views&color=0e75b6&style=flat" alt="italolima04" /> </p>
 
