@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **Urbis**
 
-- 🌱 I’m currently learning **Testes, Git Avançado, Docker**
+- 🌱 I’m currently learning **AWS, Gestão e Liderança, Storytelling**
 
-- 👯 I’m looking to collaborate on **Maiself**
+- 👯 I’m looking to collaborate on **Twooni**
 
-- 💬 Ask me about **NodeJS, Postgres, Prisma**
+- 💬 Ask me about **NodeJS, NestJS, Postgres, Prisma**
 
 - 📫 How to reach me **italolima534@gmail.com**
 
