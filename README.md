@@ -5,15 +5,15 @@
 
 - 🔭 I’m currently working on **Urbis**
 
-- 🌱 I’m currently learning **AWS, Gestão e Liderança, Storytelling**
+- 🌱 I’m currently learning **Arquitetura de Software, Gestão de Projetos, Liderança e Storytelling**
 
 - 👯 I’m looking to collaborate on **Twooni**
 
-- 💬 Ask me about **NodeJS, NestJS, Postgres, Prisma**
+- 💬 Ask me about **NodeJS, NestJS, Postgresql, Prisma, AWS, Git**
 
 - 📫 How to reach me **italolima534@gmail.com**
 
-- ⚡ Fun fact **I love football ⚽**
+- ⚡ Fun fact **I love football ⚽ and i like basketball 🏀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
